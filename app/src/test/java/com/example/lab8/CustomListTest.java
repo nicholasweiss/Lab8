@@ -26,4 +26,9 @@ public class CustomListTest {
         assertEquals(list.getCount(), listSize + 1);
     }
 
+    @Test
+    public void hasCityTest() {
+
+    }
+
 }
